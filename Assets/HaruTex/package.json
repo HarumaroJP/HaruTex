@@ -1,0 +1,11 @@
+{
+  "name": "com.harumaro.harutex",
+  "version": "1.0.0",
+  "displayName": "HaruTex",
+  "description": "Simple Texture Creator for Unity.",
+  "author": {
+    "name": "Harumaron",
+    "email": "haruto09.game@gmail.com",
+    "url": "https://twitter.com/harumar0n"
+  }
+}
