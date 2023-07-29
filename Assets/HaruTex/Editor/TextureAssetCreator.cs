@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace Editor
+namespace HaruTex
 {
     public class TextureAssetCreator
     {
